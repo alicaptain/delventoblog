@@ -111,6 +111,11 @@ nav2 {
   display: grid;
 }
 
+/* .tale {
+  max-height: 50vh;
+  overflow: hidden;
+  max-width: 50vw;
+} */
 .writer,
 time {
   font-size: 0.7rem;
